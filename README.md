@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&text=Hyewon's%20Github!&animation=fadeIn&fontSize=50&fontAlign=70&descSize=15&fontColor=ffffff)
--
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&text=Hyewon's%20Github&animation=twinkling&fontColor=808080&fontSize=50&fontAlign=70&fontAlignY=60)
+
 -   👋 Hi, I’m @jhw030306
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
