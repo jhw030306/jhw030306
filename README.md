@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&text=Hello🖐️&animation=twinkling&fontColor=808080&fontSize=50&fontAlign=80&fontAlignY=80)
 <br>
-<h2> ABOUT ME! </h2>
+<h1> ABOUT ME! </h1>
 <div align="center">
 
   <h3> I'm Hyewon Ji☺️ </h3>
