@@ -2,7 +2,7 @@
 <br>
 <h1> ABOUT ME! </h1>
 <div align="center">
-
+  <img width="200" src="https://github.com/user-attachments/assets/491ecd79-b7ed-4548-a884-6fe3b25dbe5b">
   <h3> I'm Hyewon Ji☺️ </h3>
   <I>💻컴퓨터공학과 재학 중</I><br>
   ✍ 아직 많이 부족해서 배우고 있습니다!  
