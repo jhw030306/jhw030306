@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&text=welcome%20to%20my%20github🖐️&animation=twinkling&fontColor=808080&fontSize=50&fontAlign=60&fontAlignY=60)
 <br>
 <div align="center">
-  <b>About Me</b>
-  ***  
+  <h2> 🥰About Me🥰 </h2>
   <img width="200" src="https://github.com/user-attachments/assets/491ecd79-b7ed-4548-a884-6fe3b25dbe5b">
   <h3> I'm Hyewon Ji☺️ </h3>
   <I>💻컴퓨터공학과 재학 중</I><br>
@@ -12,7 +11,7 @@
   <br>
 </div>
 <div align="center">
-  <b> 🌱Teach Stack🌱 </b>
+  <h2> 🌱Teach Stack🌱 </h2>
   <br>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
@@ -26,7 +25,6 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
-
 </div>
 
 
